@@ -64,3 +64,6 @@ def nama_detail(nip):
 
 if __name__ == '__main__':
 	app.run(debug=True)
+
+
+
